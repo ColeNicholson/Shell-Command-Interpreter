@@ -59,3 +59,4 @@ lobo-shell.tgz
 lobo-shell.tmpl
 example/
 .idea/
+.gitignore
